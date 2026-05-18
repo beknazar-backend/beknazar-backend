@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Beknazar | Python Developer
 
-<!--
-**beknazar-backend/beknazar-backend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python backend developer focused on automation, Telegram bots and data processing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- Python
+- aiogram
+- SQLite
+- pandas
+- BeautifulSoup
+- requests
+
+---
+
+## ⚡ What I Develop
+- Telegram bots
+- Website parsers
+- Excel/CSV automation
+- PDF generators
+- Backend automation tools
+
+---
+
+## 📂 Portfolio Projects
+🔹 Telegram Bots  
+🔹 Web Parsers  
+🔹 Excel Automation  
+🔹 PDF Generators  
+
+---
+
+## 📫 Contacts
+- Kwork: https://kwork.ru/user/bekksus
+- GitHub: https://github.com/beknazar-backend
+
+---
+
+## 📈 Current Focus
+Improving backend development skills and building automation tools with Python.
